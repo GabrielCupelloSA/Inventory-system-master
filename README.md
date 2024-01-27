@@ -1,2 +1,1 @@
-# Inventory-system-master
- 
+# inventory-system
